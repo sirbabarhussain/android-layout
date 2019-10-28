@@ -1,0 +1,5 @@
+<TextView
+andriod:text=" Allah I love you so much!"
+Andriod:background=@andriod:colour/red"
+andriod:layout_width="150 dp"
+andriod:layout_height=50 dp" />
